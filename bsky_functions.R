@@ -5,12 +5,12 @@ pacman::p_load(bskyr, dplyr, httr2)
 # YOU NEED TO DECLARE 3 VALUES IN YOUR .Renviron file
 # BLUESKY_APP_USER=bluesky_user.bsky.social
 # BLUESKY_APP_PASS=hhh-6667-hgfr-7777
-# BLUSKY_DID_ME=did:plc:jshadjashdsj6jashdkjsa5ksajdklsa3
+# BLUSKY_DID_ME=
 
 filter_list <- c("DEMOCRACY", "NAFO", "FELLA", "UKRAINE", "MUGA", "MAGA", "RUZZIA", 
                  "VATNIK", "SLAVA UKRAINI", "PROPAGANDA", "CANADIAN", "CANADA", "QUEBEC", "🇺🇦", "🌻",
                  "💙", "💛", "NO DM", "🇨🇦", "🍁", "DEMOCRACY", "EMPATH", "#AI", "#ML", "LGBTQ+", "Progressive",
-                 "🌈", "🇪🇺")
+                 "🌈", "🇪🇺", "BLUECREW", "KINDNESS", "DEVELOPER", "SOFTWARE ENGINEER", "PRO-CHOICE", "NO PORN")
 
 
 
